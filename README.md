@@ -6,6 +6,7 @@ This project presents a comprehensive **Power BI dashboard** built using Blinkit
 The dashboard helps stakeholders understand the **top-performing outlets, profitable product categories, outlet establishment trends, and customer behavior** to support data-driven decision making.
 
 
+
 ## 🛠️ Tools & Technologies
 
 | Tool / Tech        | Usage                                  |
@@ -14,6 +15,7 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 | **MS Excel / CSV** | Data cleaning & preprocessing          |
 | **DAX Queries**    | Calculated measures and KPIs           |
 | **Power Query**    | Data transformation                    |
+
 
 
 ## 📁 Project Structure
@@ -27,6 +29,7 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 
 
 
+
 ## ⭐ Key Features
 
 * KPI metrics — **Total Sales, Average Sales, No. of Items, Average Rating**
@@ -35,6 +38,7 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 * Revenue comparison based on **Outlet Size, Outlet Location, and Establishment Year**
 * **Dynamic filters** for drill-down analysis (Outlet Type, Item Type, Fat Content, Outlet Size)
 * **Interactive charts & slicers** for smooth and intuitive insight exploration
+
 
 
 ## 🔍 Key Insights from Dashboard
@@ -48,6 +52,7 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 * **Peak Business Year:** **2019** shows the highest sales spike
 
 
+
 ## 🚀 How to Use
 
 1. Download the Power BI `.pbix` file from the repository
@@ -55,6 +60,7 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 3. Use the side filters (Outlet Type, Outlet Size, Item Type, Fat Content) to explore data
 4. Hover on charts to view tooltip insights and breakdowns
 5. Export reports if required (PDF / Image / PPT)
+
 
 
 ## 🖼️ Dashboard Preview
