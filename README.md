@@ -27,11 +27,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 | **README.md**              | Complete documentation of the Blinkit Data Analysis project        |
 | **Screenshot (2).png**      | Includes exported dashboard screenshots        |
 
-
----
-
-## ⭐ Key Features
-
 ---
 
 ## ⭐ Key Features
@@ -45,12 +40,8 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 
 ---
 
----
-
 ## 🔍 Key Insights from Dashboard
 ---
-
-## 🔍 Key Insights
 
 * **Total Sales:** $1M
 * **Most purchased category:** Fruits & Vegetables — highest revenue (~$0.18M)
@@ -61,7 +52,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 * **Peak Business Year:** **2019** shows the highest sales spike
 
 ---
-
 
 ---
 
