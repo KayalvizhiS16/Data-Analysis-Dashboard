@@ -5,7 +5,6 @@
 This project presents a comprehensive **Power BI dashboard** built using Blinkit dataset to analyze business insights such as **sales performance, item distribution, outlet patterns, customer ratings, and product segmentation**.
 The dashboard helps stakeholders understand the **top-performing outlets, profitable product categories, outlet establishment trends, and customer behavior** to support data-driven decision making.
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -16,7 +15,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 | **DAX Queries**    | Calculated measures and KPIs           |
 | **Power Query**    | Data transformation                    |
 
----
 
 ## 📁 Project Structure
 
@@ -27,7 +25,7 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 | **README.md**              | Complete documentation of the Blinkit Data Analysis project        |
 | **Screenshot (2).png**      | Includes exported dashboard screenshots        |
 
----
+
 
 ## ⭐ Key Features
 
@@ -38,7 +36,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 * **Dynamic filters** for drill-down analysis (Outlet Type, Item Type, Fat Content, Outlet Size)
 * **Interactive charts & slicers** for smooth and intuitive insight exploration
 
----
 
 ## 🔍 Key Insights from Dashboard
 
@@ -50,7 +47,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 * **Customer Ratings:** Average rating is **3.9**, indicating scope for improvement
 * **Peak Business Year:** **2019** shows the highest sales spike
 
----
 
 ## 🚀 How to Use
 
@@ -60,7 +56,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 4. Hover on charts to view tooltip insights and breakdowns
 5. Export reports if required (PDF / Image / PPT)
 
----
 
 ## 🖼️ Dashboard Preview
 <img width="924" height="505" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/0f114839-82f7-455d-aa0b-97967dceacf3" />
