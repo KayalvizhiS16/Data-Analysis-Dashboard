@@ -41,7 +41,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 ---
 
 ## 🔍 Key Insights from Dashboard
----
 
 * **Total Sales:** $1M
 * **Most purchased category:** Fruits & Vegetables — highest revenue (~$0.18M)
@@ -50,8 +49,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 * **Best performing Outlet Location:** Tier 3 outlets
 * **Customer Ratings:** Average rating is **3.9**, indicating scope for improvement
 * **Peak Business Year:** **2019** shows the highest sales spike
-
----
 
 ---
 
