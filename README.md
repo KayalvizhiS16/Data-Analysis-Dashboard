@@ -32,12 +32,20 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 
 ## ⭐ Key Features
 
-✔ KPI metrics — **Total Sales, Average Sales, No. of Items, Average Rating**
-✔ **Sales by Item Type** analysis
-✔ **Fat Content** effect on revenue & product count
-✔ **Outlet Size, Location, and Establishment year** revenue comparison
-✔ **Dynamic filters** to drill down (Outlet Type, Item Type, Fat Content, Outlet Size)
-✔ **Interactive charts & slicers** for seamless insight exploration
+Here is the same content formatted as a **bullet list**:
+
+---
+
+## ⭐ Key Features
+
+* KPI metrics — **Total Sales, Average Sales, No. of Items, Average Rating**
+* Sales breakdown by **Item Type**
+* Impact of **Fat Content** on revenue and product count
+* Revenue comparison based on **Outlet Size, Outlet Location, and Establishment Year**
+* **Dynamic filters** for drill-down analysis (Outlet Type, Item Type, Fat Content, Outlet Size)
+* **Interactive charts & slicers** for smooth and intuitive insight exploration
+
+---
 
 ---
 
