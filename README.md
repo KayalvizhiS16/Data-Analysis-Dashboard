@@ -32,8 +32,6 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 
 ## ⭐ Key Features
 
-Here is the same content formatted as a **bullet list**:
-
 ---
 
 ## ⭐ Key Features
@@ -50,14 +48,20 @@ Here is the same content formatted as a **bullet list**:
 ---
 
 ## 🔍 Key Insights from Dashboard
+---
 
-📌 **Total Sales:** $1M
-📌 **Most purchased category:** Fruits & Vegetables — highest revenue (~$0.18M)
-📌 **Fat Content Impact:** Low-Fat items perform slightly higher in sales compared to Regular
-📌 **Top Outlet Type:** Supermarket Type 1 — highest revenue ($788K)
-📌 **Best performing Outlet Location:** Tier 3 outlets
-📌 **Ratings:** Average customer rating is **3.9**, indicating scope for improvement
-📌 **Peak business year:** 2019 shows highest sales spike
+## 🔍 Key Insights
+
+* **Total Sales:** $1M
+* **Most purchased category:** Fruits & Vegetables — highest revenue (~$0.18M)
+* **Fat Content Impact:** Low-fat items perform slightly higher in sales compared to regular
+* **Top Outlet Type:** Supermarket Type 1 — highest revenue ($788K)
+* **Best performing Outlet Location:** Tier 3 outlets
+* **Customer Ratings:** Average rating is **3.9**, indicating scope for improvement
+* **Peak Business Year:** **2019** shows the highest sales spike
+
+---
+
 
 ---
 
@@ -73,7 +77,3 @@ Here is the same content formatted as a **bullet list**:
 
 ## 🖼️ Dashboard Preview
 <img width="924" height="505" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/0f114839-82f7-455d-aa0b-97967dceacf3" />
-
-
-
-I developed a comprehensive  project in powerbi , creating dashboards and tables to analyze the data. This process involved several stages,including data preprocessing,data cleaning and data visualization
