@@ -1,11 +1,6 @@
-# Data-Analysis-Dashboard
-Below is a polished **README file content** for your *Blinkit Data Analysis Dashboard* based on the image you shared.
+# Blinkit Data Analysis - Power BI
 
----
-
-# 📊 Blinkit Data Analysis Dashboard
-
-## 📌 Project Overview
+## 📊 Project Overview
 
 This project presents a comprehensive **Power BI dashboard** built using Blinkit dataset to analyze business insights such as **sales performance, item distribution, outlet patterns, customer ratings, and product segmentation**.
 The dashboard helps stakeholders understand the **top-performing outlets, profitable product categories, outlet establishment trends, and customer behavior** to support data-driven decision making.
