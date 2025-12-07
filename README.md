@@ -57,7 +57,7 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 
 1. Download the Power BI `.pbix` file from the repository
 2. Open it in **Power BI Desktop**
-3. Use the side filters (Outlet Type, Outlet Size, Item Type, Fat Content) to explore data
+3. Use the side filters (Outlet Type, Outlet Size, Item Type) to explore data
 4. Hover on charts to view tooltip insights and breakdowns
 5. Export reports if required (PDF / Image / PPT)
 
