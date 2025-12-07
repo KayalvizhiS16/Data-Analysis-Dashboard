@@ -25,7 +25,7 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 | **Dataset/**               | Contains raw and processed Blinkit dataset files used for analysis |
 | **PowerBI_Dashboard.pbix** | Final Power BI dashboard project file                              |
 | **README.md**              | Complete documentation of the Blinkit Data Analysis project        |
-| **Exported_Reports/**      | Includes exported dashboard screenshots, PDFs, and reports         |
+| **Screenshot (2).png**      | Includes exported dashboard screenshots, PDFs, and reports         |
 
 
 ---
