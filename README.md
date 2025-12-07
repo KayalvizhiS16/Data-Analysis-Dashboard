@@ -20,13 +20,12 @@ The dashboard helps stakeholders understand the **top-performing outlets, profit
 
 ## 📁 Project Structure
 
-```
 Blinkit-Data-Analysis/
 │── Dataset/              → Raw & processed Blinkit dataset
 │── PowerBI_Dashboard.pbix → Final dashboard file
 │── README.md             → Project documentation (this file)
 │── Exported_Reports/     → Screenshots & PDF exports
-```
+
 
 ---
 
